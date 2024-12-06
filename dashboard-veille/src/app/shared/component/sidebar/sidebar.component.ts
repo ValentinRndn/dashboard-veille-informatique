@@ -14,7 +14,7 @@ export class SidebarComponent implements OnInit {
   isMobile = false;
 
   menuItems = [
-    { label: 'Accueil', route: '/dashboard', icon: '🏠' },
+    { label: 'Accueil', route: '/home', icon: '🏠' },
     { label: 'Tendances', route: '/trend', icon: '📈' },
     { label: 'Niches', route: '/niche',   icon: '💡' },
     { label: 'Sources', route: '/information', icon: '📚' },
