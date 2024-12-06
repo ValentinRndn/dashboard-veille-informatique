@@ -1,0 +1,7 @@
+/* Ajouter une couleur spécifique pour les liens actifs */
+a.active {
+    background-color: #4F46E5; /* Violet */
+    color: white;
+    font-weight: bold;
+  }
+  
